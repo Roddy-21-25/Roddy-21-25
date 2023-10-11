@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roddy R. Tejeda Rosario</h1>
 <h3 align="center">A passionate frontend and Backend developer from Dominican Republic</h3>
 
-- 🔭 I’m currently working on Personal Projects for My Porfolio [All my Projects](https://www.linkedin.com/in/roddy-2125-rafael/details/projects/)
+- 🔭 I’m currently working on Personal Projects for My Porfolio [All my Projects](https://portfolio-english.netlify.app)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/roddy-2125-rafael/details/projects/](https://www.linkedin.com/in/roddy-2125-rafael/details/projects/)
 
